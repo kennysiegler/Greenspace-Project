@@ -1,0 +1,37 @@
+/* Remove the default margin and padding from the body. */
+body {
+  padding: 0;
+  margin: 0;
+}
+
+/* Set map, body, and html to 100% of the screen size. */
+#map {
+  height: 100%;
+  position: relative;
+  top: -150px;
+  left: -20px;
+}
+
+#menu {
+  width:100px;
+  height:200px;
+  overflow:auto;
+  white-space:nowrap;
+}
+
+.dataBox {
+  color: black;
+}
+
+#bar {
+  position: absolute;
+  height: 380px;
+  width: 900px;
+  left: 600px;
+  top: 25px;
+}
+
+#plot {
+  position: relative;
+  top: -100px;
+}

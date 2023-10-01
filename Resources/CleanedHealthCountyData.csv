@@ -1,0 +1,265 @@
+,Year,StateAbbr,LocationName,Data_Value_Type,Data_Value,TotalPopulation,DataValueTypeID,Short_Question_Text,Lat,Lon,city,state,county,average_greenspace
+0,2019,WI,Milwaukee,Age-adjusted prevalence,31.4,945016,AgeAdjPrv,High Blood Pressure,42.9126431,-87.8623115,Milwaukee,WI,Milwaukee,2475.8735380140006
+1,2019,WI,Milwaukee,Crude prevalence,31.5,945016,CrdPrv,High Blood Pressure,42.9126431,-87.8623115,Milwaukee,WI,Milwaukee,2475.8735380140006
+2,2019,WI,Milwaukee,Age-adjusted prevalence,29.9,945016,AgeAdjPrv,High Cholesterol,42.9126431,-87.8623115,Milwaukee,WI,Milwaukee,2475.8735380140006
+3,2019,WI,Milwaukee,Crude prevalence,32.3,945016,CrdPrv,High Cholesterol,42.9126431,-87.8623115,Milwaukee,WI,Milwaukee,2475.8735380140006
+4,2019,WI,Dane,Crude prevalence,26.2,552536,CrdPrv,High Blood Pressure,43.0674684,-89.4178523,Madison,WI,Dane,2698.259680168667
+5,2019,WI,Dane,Age-adjusted prevalence,29.0,552536,AgeAdjPrv,High Cholesterol,43.0674684,-89.4178523,Madison,WI,Dane,2698.259680168667
+6,2019,WI,Dane,Crude prevalence,30.7,552536,CrdPrv,High Cholesterol,43.0674684,-89.4178523,Madison,WI,Dane,2698.259680168667
+7,2019,WI,Dane,Age-adjusted prevalence,26.8,552536,AgeAdjPrv,High Blood Pressure,43.0674684,-89.4178523,Madison,WI,Dane,2698.259680168667
+8,2019,WA,King,Crude prevalence,26.0,2274315,CrdPrv,High Blood Pressure,47.4905518,-121.8339765,Seattle,WA,King,275.19221146
+9,2019,WA,King,Age-adjusted prevalence,26.3,2274315,AgeAdjPrv,High Blood Pressure,47.4905518,-121.8339765,Seattle,WA,King,275.19221146
+10,2019,WA,King,Crude prevalence,29.1,2274315,CrdPrv,High Cholesterol,47.4905518,-121.8339765,Seattle,WA,King,275.19221146
+11,2019,WA,King,Age-adjusted prevalence,27.5,2274315,AgeAdjPrv,High Cholesterol,47.4905518,-121.8339765,Seattle,WA,King,275.19221146
+12,2019,VA,Henrico,Crude prevalence,34.9,333766,CrdPrv,High Blood Pressure,37.4375205,-77.300333,Richmond,VA,Henrico,107.32984462
+13,2019,VA,Henrico,Age-adjusted prevalence,32.5,333766,AgeAdjPrv,High Blood Pressure,37.4375205,-77.300333,Richmond,VA,Henrico,107.32984462
+14,2019,VA,Henrico,Crude prevalence,31.3,333766,CrdPrv,High Cholesterol,37.4375205,-77.300333,Richmond,VA,Henrico,107.32984462
+15,2019,VA,Henrico,Age-adjusted prevalence,27.9,333766,AgeAdjPrv,High Cholesterol,37.4375205,-77.300333,Richmond,VA,Henrico,107.32984462
+16,2019,UT,Salt Lake,Age-adjusted prevalence,27.0,1165517,AgeAdjPrv,High Blood Pressure,40.6678828,-111.9242397,Salt Lake City,UT,Salt Lake,630.2379283466666
+17,2019,UT,Salt Lake,Crude prevalence,27.5,1165517,CrdPrv,High Cholesterol,40.6678828,-111.9242397,Salt Lake City,UT,Salt Lake,630.2379283466666
+18,2019,UT,Salt Lake,Age-adjusted prevalence,26.9,1165517,AgeAdjPrv,High Cholesterol,40.6678828,-111.9242397,Salt Lake City,UT,Salt Lake,630.2379283466666
+19,2019,UT,Salt Lake,Crude prevalence,25.3,1165517,CrdPrv,High Blood Pressure,40.6678828,-111.9242397,Salt Lake City,UT,Salt Lake,630.2379283466666
+20,2019,TX,Travis,Age-adjusted prevalence,30.4,1300503,AgeAdjPrv,High Cholesterol,30.2395128,-97.6912697,Austin,TX,Travis,276.69338235600003
+21,2019,TX,Travis,Crude prevalence,23.6,1300503,CrdPrv,High Blood Pressure,30.2395128,-97.6912697,Austin,TX,Travis,276.69338235600003
+22,2019,TX,Travis,Crude prevalence,29.8,1300503,CrdPrv,High Cholesterol,30.2395128,-97.6912697,Austin,TX,Travis,276.69338235600003
+23,2019,TX,Travis,Age-adjusted prevalence,26.3,1300503,AgeAdjPrv,High Blood Pressure,30.2395128,-97.6912697,Austin,TX,Travis,276.69338235600003
+24,2019,TX,Tarrant,Crude prevalence,34.4,2123347,CrdPrv,High Cholesterol,32.7721191,-97.2912241,Fort Worth,TX,Tarrant,45.29370025266667
+25,2019,TX,Tarrant,Age-adjusted prevalence,33.2,2123347,AgeAdjPrv,High Cholesterol,32.7721191,-97.2912241,Fort Worth,TX,Tarrant,45.29370025266667
+26,2019,TX,Tarrant,Crude prevalence,30.3,2123347,CrdPrv,High Blood Pressure,32.7721191,-97.2912241,Fort Worth,TX,Tarrant,45.29370025266667
+27,2019,TX,Tarrant,Age-adjusted prevalence,31.3,2123347,AgeAdjPrv,High Blood Pressure,32.7721191,-97.2912241,Fort Worth,TX,Tarrant,45.29370025266667
+28,2019,TX,Dallas,Age-adjusted prevalence,32.0,2635888,AgeAdjPrv,High Blood Pressure,32.7669866,-96.7784238,Dallas,TX,Dallas,895.341075696
+29,2019,TX,Dallas,Crude prevalence,30.8,2635888,CrdPrv,High Cholesterol,32.7669866,-96.7784238,Dallas,TX,Dallas,895.341075696
+30,2019,TX,Dallas,Age-adjusted prevalence,30.3,2635888,AgeAdjPrv,High Cholesterol,32.7669866,-96.7784238,Dallas,TX,Dallas,895.341075696
+31,2019,TX,Dallas,Crude prevalence,30.1,2635888,CrdPrv,High Blood Pressure,32.7669866,-96.7784238,Dallas,TX,Dallas,895.341075696
+32,2019,TX,El Paso,Crude prevalence,31.6,841286,CrdPrv,High Cholesterol,31.7664803,-106.2414234,El Paso,TX,El Paso,3.0057258433333334
+33,2019,TX,El Paso,Crude prevalence,31.4,841286,CrdPrv,High Blood Pressure,31.7664803,-106.2414234,El Paso,TX,El Paso,3.0057258433333334
+34,2019,TX,El Paso,Age-adjusted prevalence,31.9,841286,AgeAdjPrv,High Blood Pressure,31.7664803,-106.2414234,El Paso,TX,El Paso,3.0057258433333334
+35,2019,TX,El Paso,Age-adjusted prevalence,29.8,841286,AgeAdjPrv,High Cholesterol,31.7664803,-106.2414234,El Paso,TX,El Paso,3.0057258433333334
+36,2019,TX,Bexar,Crude prevalence,32.5,2026823,CrdPrv,High Blood Pressure,29.4486708,-98.5201465,San Antonio,TX,Bexar,294.7271992066666
+37,2019,TX,Bexar,Age-adjusted prevalence,31.1,2026823,AgeAdjPrv,High Cholesterol,29.4486708,-98.5201465,San Antonio,TX,Bexar,294.7271992066666
+38,2019,TX,Bexar,Crude prevalence,32.2,2026823,CrdPrv,High Cholesterol,29.4486708,-98.5201465,San Antonio,TX,Bexar,294.7271992066666
+39,2019,TX,Bexar,Age-adjusted prevalence,33.6,2026823,AgeAdjPrv,High Blood Pressure,29.4486708,-98.5201465,San Antonio,TX,Bexar,294.7271992066666
+40,2019,TX,Harris,Age-adjusted prevalence,32.5,4738253,AgeAdjPrv,High Blood Pressure,29.857273,-95.3930371,Houston,TX,Harris,3856.773289863333
+41,2019,TX,Harris,Crude prevalence,34.1,4738253,CrdPrv,High Cholesterol,29.857273,-95.3930371,Houston,TX,Harris,3856.773289863333
+42,2019,TX,Harris,Age-adjusted prevalence,33.6,4738253,AgeAdjPrv,High Cholesterol,29.857273,-95.3930371,Houston,TX,Harris,3856.773289863333
+43,2019,TX,Harris,Crude prevalence,30.7,4738253,CrdPrv,High Blood Pressure,29.857273,-95.3930371,Houston,TX,Harris,3856.773289863333
+44,2019,TX,Hidalgo,Age-adjusted prevalence,30.9,875200,AgeAdjPrv,High Cholesterol,26.3963839,-98.18099,Mcallen,TX,Hidalgo,108.40183666399999
+45,2019,TX,Hidalgo,Crude prevalence,33.5,875200,CrdPrv,High Blood Pressure,26.3963839,-98.18099,Mcallen,TX,Hidalgo,108.40183666399999
+46,2019,TX,Hidalgo,Crude prevalence,32.0,875200,CrdPrv,High Cholesterol,26.3963839,-98.18099,Mcallen,TX,Hidalgo,108.40183666399999
+47,2019,TX,Hidalgo,Age-adjusted prevalence,35.2,875200,AgeAdjPrv,High Blood Pressure,26.3963839,-98.18099,Mcallen,TX,Hidalgo,108.40183666399999
+48,2019,TN,Shelby,Age-adjusted prevalence,30.6,936017,AgeAdjPrv,High Cholesterol,35.1845529,-89.8946125,Memphis,TN,Shelby,4058.9813610739993
+49,2019,TN,Shelby,Age-adjusted prevalence,39.2,936017,AgeAdjPrv,High Blood Pressure,35.1845529,-89.8946125,Memphis,TN,Shelby,4058.9813610739993
+50,2019,TN,Shelby,Crude prevalence,40.3,936017,CrdPrv,High Blood Pressure,35.1845529,-89.8946125,Memphis,TN,Shelby,4058.9813610739993
+51,2019,TN,Shelby,Crude prevalence,33.1,936017,CrdPrv,High Cholesterol,35.1845529,-89.8946125,Memphis,TN,Shelby,4058.9813610739993
+52,2019,TN,Davidson,Crude prevalence,32.7,694176,CrdPrv,High Blood Pressure,36.1691287,-86.7847898,Nashville,TN,Davidson,5360.456149624
+53,2019,TN,Davidson,Crude prevalence,30.3,694176,CrdPrv,High Cholesterol,36.1691287,-86.7847898,Nashville,TN,Davidson,5360.456149624
+54,2019,TN,Davidson,Age-adjusted prevalence,30.1,694176,AgeAdjPrv,High Cholesterol,36.1691287,-86.7847898,Nashville,TN,Davidson,5360.456149624
+55,2019,TN,Davidson,Age-adjusted prevalence,34.3,694176,AgeAdjPrv,High Blood Pressure,36.1691287,-86.7847898,Nashville,TN,Davidson,5360.456149624
+56,2019,SC,Charleston,Crude prevalence,34.1,417981,CrdPrv,High Cholesterol,32.8004582,-79.94248,Charleston,SC,Charleston,302.8833941573334
+57,2019,SC,Charleston,Age-adjusted prevalence,30.5,417981,AgeAdjPrv,High Cholesterol,32.8004582,-79.94248,Charleston,SC,Charleston,302.8833941573334
+58,2019,SC,Charleston,Crude prevalence,33.8,417981,CrdPrv,High Blood Pressure,32.8004582,-79.94248,Charleston,SC,Charleston,302.8833941573334
+59,2019,SC,Charleston,Age-adjusted prevalence,31.9,417981,AgeAdjPrv,High Blood Pressure,32.8004582,-79.94248,Charleston,SC,Charleston,302.8833941573334
+60,2019,RI,Providence,Crude prevalence,31.0,636547,CrdPrv,High Blood Pressure,41.8697678,-71.5786246,Providence,RI,Providence,103.67977827799999
+61,2019,RI,Providence,Crude prevalence,29.8,636547,CrdPrv,High Cholesterol,41.8697678,-71.5786246,Providence,RI,Providence,103.67977827799999
+62,2019,RI,Providence,Age-adjusted prevalence,30.4,636547,AgeAdjPrv,High Blood Pressure,41.8697678,-71.5786246,Providence,RI,Providence,103.67977827799999
+63,2019,RI,Providence,Age-adjusted prevalence,27.9,636547,AgeAdjPrv,High Cholesterol,41.8697678,-71.5786246,Providence,RI,Providence,103.67977827799999
+64,2019,PA,Allegheny,Crude prevalence,30.6,1211358,CrdPrv,High Cholesterol,40.4697574,-79.9804515,Pittsburgh,PA,Allegheny,754.3104354099999
+65,2019,PA,Allegheny,Age-adjusted prevalence,26.3,1211358,AgeAdjPrv,High Cholesterol,40.4697574,-79.9804515,Pittsburgh,PA,Allegheny,754.3104354099999
+66,2019,PA,Allegheny,Age-adjusted prevalence,28.5,1211358,AgeAdjPrv,High Blood Pressure,40.4697574,-79.9804515,Pittsburgh,PA,Allegheny,754.3104354099999
+67,2019,PA,Allegheny,Crude prevalence,31.9,1211358,CrdPrv,High Blood Pressure,40.4697574,-79.9804515,Pittsburgh,PA,Allegheny,754.3104354099999
+68,2019,PA,Dauphin,Crude prevalence,32.7,279874,CrdPrv,High Blood Pressure,40.4125646,-76.7926343,Harrisburg,PA,Dauphin,2185.010015636
+69,2019,PA,Dauphin,Age-adjusted prevalence,28.8,279874,AgeAdjPrv,High Cholesterol,40.4125646,-76.7926343,Harrisburg,PA,Dauphin,2185.010015636
+70,2019,PA,Dauphin,Crude prevalence,33.1,279874,CrdPrv,High Cholesterol,40.4125646,-76.7926343,Harrisburg,PA,Dauphin,2185.010015636
+71,2019,PA,Dauphin,Age-adjusted prevalence,29.8,279874,AgeAdjPrv,High Blood Pressure,40.4125646,-76.7926343,Harrisburg,PA,Dauphin,2185.010015636
+72,2019,PA,Philadelphia,Age-adjusted prevalence,29.5,1578487,AgeAdjPrv,High Cholesterol,40.0093755,-75.1333459,Philadelphia,PA,Philadelphia,1516.5645661173335
+73,2019,PA,Philadelphia,Crude prevalence,30.8,1578487,CrdPrv,High Cholesterol,40.0093755,-75.1333459,Philadelphia,PA,Philadelphia,1516.5645661173335
+74,2019,PA,Philadelphia,Age-adjusted prevalence,33.5,1578487,AgeAdjPrv,High Blood Pressure,40.0093755,-75.1333459,Philadelphia,PA,Philadelphia,1516.5645661173335
+75,2019,PA,Philadelphia,Crude prevalence,32.9,1578487,CrdPrv,High Blood Pressure,40.0093755,-75.1333459,Philadelphia,PA,Philadelphia,1516.5645661173335
+76,2019,OR,Multnomah,Crude prevalence,26.2,815637,CrdPrv,High Blood Pressure,45.5477107,-122.4173625,Portland,OR,Multnomah,964.2477419673334
+77,2019,OR,Multnomah,Age-adjusted prevalence,25.9,815637,AgeAdjPrv,High Cholesterol,45.5477107,-122.4173625,Portland,OR,Multnomah,964.2477419673334
+78,2019,OR,Multnomah,Age-adjusted prevalence,26.7,815637,AgeAdjPrv,High Blood Pressure,45.5477107,-122.4173625,Portland,OR,Multnomah,964.2477419673334
+79,2019,OR,Multnomah,Crude prevalence,27.0,815637,CrdPrv,High Cholesterol,45.5477107,-122.4173625,Portland,OR,Multnomah,964.2477419673334
+80,2019,OK,Oklahoma,Crude prevalence,33.5,804041,CrdPrv,High Blood Pressure,35.5546109,-97.4094007,Oklahoma city,OK,Oklahoma,164.64360587866668
+81,2019,OK,Oklahoma,Crude prevalence,32.4,804041,CrdPrv,High Cholesterol,35.5546109,-97.4094007,Oklahoma city,OK,Oklahoma,164.64360587866668
+82,2019,OK,Oklahoma,Age-adjusted prevalence,30.3,804041,AgeAdjPrv,High Cholesterol,35.5546109,-97.4094007,Oklahoma city,OK,Oklahoma,164.64360587866668
+83,2019,OK,Oklahoma,Age-adjusted prevalence,33.4,804041,AgeAdjPrv,High Blood Pressure,35.5546109,-97.4094007,Oklahoma city,OK,Oklahoma,164.64360587866668
+84,2019,OK,Tulsa,Crude prevalence,34.0,657589,CrdPrv,High Cholesterol,36.1203177,-95.9418132,Tulsa,OK,Tulsa,2050.4194430213333
+85,2019,OK,Tulsa,Crude prevalence,34.8,657589,CrdPrv,High Blood Pressure,36.1203177,-95.9418132,Tulsa,OK,Tulsa,2050.4194430213333
+86,2019,OK,Tulsa,Age-adjusted prevalence,33.9,657589,AgeAdjPrv,High Blood Pressure,36.1203177,-95.9418132,Tulsa,OK,Tulsa,2050.4194430213333
+87,2019,OK,Tulsa,Age-adjusted prevalence,31.1,657589,AgeAdjPrv,High Cholesterol,36.1203177,-95.9418132,Tulsa,OK,Tulsa,2050.4194430213333
+88,2019,OH,Montgomery,Age-adjusted prevalence,33.7,531610,AgeAdjPrv,High Blood Pressure,39.7537357,-84.2905915,Dayton,OH,Montgomery,776.6340880059998
+89,2019,OH,Montgomery,Crude prevalence,33.0,531610,CrdPrv,High Cholesterol,39.7537357,-84.2905915,Dayton,OH,Montgomery,776.6340880059998
+90,2019,OH,Montgomery,Age-adjusted prevalence,28.2,531610,AgeAdjPrv,High Cholesterol,39.7537357,-84.2905915,Dayton,OH,Montgomery,776.6340880059998
+91,2019,OH,Montgomery,Crude prevalence,37.2,531610,CrdPrv,High Blood Pressure,39.7537357,-84.2905915,Dayton,OH,Montgomery,776.6340880059998
+92,2019,OH,Lucas,Age-adjusted prevalence,33.0,428294,AgeAdjPrv,High Blood Pressure,41.6823213,-83.4689033,Toledo,OH,Lucas,253.08233653866668
+93,2019,OH,Lucas,Crude prevalence,35.7,428294,CrdPrv,High Blood Pressure,41.6823213,-83.4689033,Toledo,OH,Lucas,253.08233653866668
+94,2019,OH,Lucas,Crude prevalence,31.2,428294,CrdPrv,High Cholesterol,41.6823213,-83.4689033,Toledo,OH,Lucas,253.08233653866668
+95,2019,OH,Lucas,Age-adjusted prevalence,27.0,428294,AgeAdjPrv,High Cholesterol,41.6823213,-83.4689033,Toledo,OH,Lucas,253.08233653866668
+96,2019,OH,Summit,Age-adjusted prevalence,30.7,538866,AgeAdjPrv,High Blood Pressure,41.1218471,-81.5349279,Akron,OH,Summit,696.7823970206666
+97,2019,OH,Summit,Age-adjusted prevalence,25.4,538866,AgeAdjPrv,High Cholesterol,41.1218471,-81.5349279,Akron,OH,Summit,696.7823970206666
+98,2019,OH,Summit,Crude prevalence,30.4,538866,CrdPrv,High Cholesterol,41.1218471,-81.5349279,Akron,OH,Summit,696.7823970206666
+99,2019,OH,Summit,Crude prevalence,34.7,538866,CrdPrv,High Blood Pressure,41.1218471,-81.5349279,Akron,OH,Summit,696.7823970206666
+100,2019,OH,Cuyahoga,Age-adjusted prevalence,27.5,1227883,AgeAdjPrv,High Cholesterol,41.555037,-81.6049566,Cleveland,OH,Cuyahoga,767.4046712080001
+101,2019,OH,Cuyahoga,Crude prevalence,35.4,1227883,CrdPrv,High Blood Pressure,41.555037,-81.6049566,Cleveland,OH,Cuyahoga,767.4046712080001
+102,2019,OH,Cuyahoga,Crude prevalence,32.2,1227883,CrdPrv,High Cholesterol,41.555037,-81.6049566,Cleveland,OH,Cuyahoga,767.4046712080001
+103,2019,OH,Cuyahoga,Age-adjusted prevalence,31.9,1227883,AgeAdjPrv,High Blood Pressure,41.555037,-81.6049566,Cleveland,OH,Cuyahoga,767.4046712080001
+104,2019,OH,Hamilton,Crude prevalence,29.1,817985,CrdPrv,High Cholesterol,39.1969272,-84.5441868,Cincinnati,OH,Hamilton,6291.645367012
+105,2019,OH,Hamilton,Age-adjusted prevalence,25.9,817985,AgeAdjPrv,High Cholesterol,39.1969272,-84.5441868,Cincinnati,OH,Hamilton,6291.645367012
+106,2019,OH,Hamilton,Crude prevalence,34.0,817985,CrdPrv,High Blood Pressure,39.1969272,-84.5441868,Cincinnati,OH,Hamilton,6291.645367012
+107,2019,OH,Hamilton,Age-adjusted prevalence,32.1,817985,AgeAdjPrv,High Blood Pressure,39.1969272,-84.5441868,Cincinnati,OH,Hamilton,6291.645367012
+108,2019,NC,Mecklenburg,Age-adjusted prevalence,29.1,1128945,AgeAdjPrv,High Cholesterol,35.2468623,-80.8338317,Charlotte,NC,Mecklenburg,1020.0583168253336
+109,2019,NC,Mecklenburg,Crude prevalence,29.8,1128945,CrdPrv,High Blood Pressure,35.2468623,-80.8338317,Charlotte,NC,Mecklenburg,1020.0583168253336
+110,2019,NC,Mecklenburg,Age-adjusted prevalence,30.9,1128945,AgeAdjPrv,High Blood Pressure,35.2468623,-80.8338317,Charlotte,NC,Mecklenburg,1020.0583168253336
+111,2019,NC,Mecklenburg,Crude prevalence,29.7,1128945,CrdPrv,High Cholesterol,35.2468623,-80.8338317,Charlotte,NC,Mecklenburg,1020.0583168253336
+112,2019,NC,Wake,Age-adjusted prevalence,28.8,1132271,AgeAdjPrv,High Cholesterol,35.7898464,-78.650624,Raleigh,NC,Wake,1853.3619439359998
+113,2019,NC,Wake,Age-adjusted prevalence,29.4,1132271,AgeAdjPrv,High Blood Pressure,35.7898464,-78.650624,Raleigh,NC,Wake,1853.3619439359998
+114,2019,NC,Wake,Crude prevalence,30.2,1132271,CrdPrv,High Cholesterol,35.7898464,-78.650624,Raleigh,NC,Wake,1853.3619439359998
+115,2019,NC,Wake,Crude prevalence,29.2,1132271,CrdPrv,High Blood Pressure,35.7898464,-78.650624,Raleigh,NC,Wake,1853.3619439359998
+116,2019,NY,New York,Crude prevalence,25.1,1611989,CrdPrv,High Blood Pressure,40.7766419,-73.9701871,New York,NY,New York,658.3596560580002
+117,2019,NY,New York,Age-adjusted prevalence,29.2,1611989,AgeAdjPrv,High Cholesterol,40.7766419,-73.9701871,New York,NY,New York,658.3596560580002
+118,2019,NY,New York,Crude prevalence,30.8,1611989,CrdPrv,High Cholesterol,40.7766419,-73.9701871,New York,NY,New York,658.3596560580002
+119,2019,NY,New York,Age-adjusted prevalence,24.5,1611989,AgeAdjPrv,High Blood Pressure,40.7766419,-73.9701871,New York,NY,New York,658.3596560580002
+120,2019,NY,Albany,Age-adjusted prevalence,26.1,303654,AgeAdjPrv,High Blood Pressure,42.5882401,-73.9740095,Albany,NY,Albany,1601.7833172753333
+121,2019,NY,Albany,Crude prevalence,27.3,303654,CrdPrv,High Blood Pressure,42.5882401,-73.9740095,Albany,NY,Albany,1601.7833172753333
+122,2019,NY,Albany,Age-adjusted prevalence,28.4,303654,AgeAdjPrv,High Cholesterol,42.5882401,-73.9740095,Albany,NY,Albany,1601.7833172753333
+123,2019,NY,Albany,Crude prevalence,30.9,303654,CrdPrv,High Cholesterol,42.5882401,-73.9740095,Albany,NY,Albany,1601.7833172753333
+124,2019,NY,Erie,Crude prevalence,32.8,917241,CrdPrv,High Cholesterol,42.752759,-78.7781922,Buffalo,NY,Erie,2640.946160322
+125,2019,NY,Erie,Crude prevalence,32.4,917241,CrdPrv,High Blood Pressure,42.752759,-78.7781922,Buffalo,NY,Erie,2640.946160322
+126,2019,NY,Erie,Age-adjusted prevalence,29.1,917241,AgeAdjPrv,High Blood Pressure,42.752759,-78.7781922,Buffalo,NY,Erie,2640.946160322
+127,2019,NY,Erie,Age-adjusted prevalence,28.5,917241,AgeAdjPrv,High Cholesterol,42.752759,-78.7781922,Buffalo,NY,Erie,2640.946160322
+128,2019,NM,Bernalillo,Crude prevalence,28.6,681666,CrdPrv,High Cholesterol,35.053628,-106.6690805,Albuquerque,NM,Bernalillo,60.747816053333324
+129,2019,NM,Bernalillo,Crude prevalence,26.9,681666,CrdPrv,High Blood Pressure,35.053628,-106.6690805,Albuquerque,NM,Bernalillo,60.747816053333324
+130,2019,NM,Bernalillo,Age-adjusted prevalence,25.5,681666,AgeAdjPrv,High Blood Pressure,35.053628,-106.6690805,Albuquerque,NM,Bernalillo,60.747816053333324
+131,2019,NM,Bernalillo,Age-adjusted prevalence,25.5,681666,AgeAdjPrv,High Cholesterol,35.053628,-106.6690805,Albuquerque,NM,Bernalillo,60.747816053333324
+132,2019,NV,Clark,Age-adjusted prevalence,29.6,2315963,AgeAdjPrv,High Blood Pressure,36.2141295,-115.0143977,Las Vegas,NV,Clark,3.219653424
+133,2019,NV,Clark,Crude prevalence,30.2,2315963,CrdPrv,High Blood Pressure,36.2141295,-115.0143977,Las Vegas,NV,Clark,3.219653424
+134,2019,NV,Clark,Age-adjusted prevalence,29.3,2315963,AgeAdjPrv,High Cholesterol,36.2141295,-115.0143977,Las Vegas,NV,Clark,3.219653424
+135,2019,NV,Clark,Crude prevalence,31.8,2315963,CrdPrv,High Cholesterol,36.2141295,-115.0143977,Las Vegas,NV,Clark,3.219653424
+136,2019,NE,Douglas,Age-adjusted prevalence,28.9,574332,AgeAdjPrv,High Blood Pressure,41.2970908,-96.1540664,Omaha,NE,Douglas,638.824149556
+137,2019,NE,Douglas,Crude prevalence,29.5,574332,CrdPrv,High Cholesterol,41.2970908,-96.1540664,Omaha,NE,Douglas,638.824149556
+138,2019,NE,Douglas,Age-adjusted prevalence,27.4,574332,AgeAdjPrv,High Cholesterol,41.2970908,-96.1540664,Omaha,NE,Douglas,638.824149556
+139,2019,NE,Douglas,Crude prevalence,28.9,574332,CrdPrv,High Blood Pressure,41.2970908,-96.1540664,Omaha,NE,Douglas,638.824149556
+140,2019,MO,St. Louis,Crude prevalence,31.5,994020,CrdPrv,High Cholesterol,38.6406881,-90.4460731,Saint Louis,MO,St. Louis,4764.134944878666
+141,2019,MO,St. Louis,Crude prevalence,33.1,994020,CrdPrv,High Blood Pressure,38.6406881,-90.4460731,Saint Louis,MO,St. Louis,4764.134944878666
+142,2019,MO,St. Louis,Age-adjusted prevalence,26.7,994020,AgeAdjPrv,High Cholesterol,38.6406881,-90.4460731,Saint Louis,MO,St. Louis,4764.134944878666
+143,2019,MO,St. Louis,Age-adjusted prevalence,29.3,994020,AgeAdjPrv,High Blood Pressure,38.6406881,-90.4460731,Saint Louis,MO,St. Louis,4764.134944878666
+144,2019,MO,Jackson,Age-adjusted prevalence,29.6,705925,AgeAdjPrv,High Cholesterol,39.005364,-94.3432105,Kansas City,MO,Jackson,8672.425748240667
+145,2019,MO,Jackson,Crude prevalence,33.0,705925,CrdPrv,High Cholesterol,39.005364,-94.3432105,Kansas City,MO,Jackson,8672.425748240667
+146,2019,MO,Jackson,Age-adjusted prevalence,29.5,705925,AgeAdjPrv,High Blood Pressure,39.005364,-94.3432105,Kansas City,MO,Jackson,8672.425748240667
+147,2019,MO,Jackson,Crude prevalence,31.1,705925,CrdPrv,High Blood Pressure,39.005364,-94.3432105,Kansas City,MO,Jackson,8672.425748240667
+148,2019,MN,Hennepin,Age-adjusted prevalence,25.3,1268408,AgeAdjPrv,High Cholesterol,45.0061209,-93.4752279,Minneapolis,MN,Hennepin,9833.088146299999
+149,2019,MN,Hennepin,Crude prevalence,27.5,1268408,CrdPrv,High Cholesterol,45.0061209,-93.4752279,Minneapolis,MN,Hennepin,9833.088146299999
+150,2019,MN,Hennepin,Crude prevalence,25.6,1268408,CrdPrv,High Blood Pressure,45.0061209,-93.4752279,Minneapolis,MN,Hennepin,9833.088146299999
+151,2019,MN,Hennepin,Age-adjusted prevalence,25.0,1268408,AgeAdjPrv,High Blood Pressure,45.0061209,-93.4752279,Minneapolis,MN,Hennepin,9833.088146299999
+152,2019,MI,Wayne,Crude prevalence,34.7,1740623,CrdPrv,High Cholesterol,42.2846636,-83.2619533,Detroit,MI,Wayne,2096.9975485813334
+153,2019,MI,Wayne,Age-adjusted prevalence,31.1,1740623,AgeAdjPrv,High Cholesterol,42.2846636,-83.2619533,Detroit,MI,Wayne,2096.9975485813334
+154,2019,MI,Wayne,Crude prevalence,36.9,1740623,CrdPrv,High Blood Pressure,42.2846636,-83.2619533,Detroit,MI,Wayne,2096.9975485813334
+155,2019,MI,Wayne,Age-adjusted prevalence,34.5,1740623,AgeAdjPrv,High Blood Pressure,42.2846636,-83.2619533,Detroit,MI,Wayne,2096.9975485813334
+156,2019,MI,Kent,Crude prevalence,31.5,658708,CrdPrv,High Cholesterol,43.0324971,-85.547446,Grand Rapids,MI,Kent,1688.719739257333
+157,2019,MI,Kent,Crude prevalence,30.6,658708,CrdPrv,High Blood Pressure,43.0324971,-85.547446,Grand Rapids,MI,Kent,1688.719739257333
+158,2019,MI,Kent,Age-adjusted prevalence,29.6,658708,AgeAdjPrv,High Cholesterol,43.0324971,-85.547446,Grand Rapids,MI,Kent,1688.719739257333
+159,2019,MI,Kent,Age-adjusted prevalence,30.1,658708,AgeAdjPrv,High Blood Pressure,43.0324971,-85.547446,Grand Rapids,MI,Kent,1688.719739257333
+160,2019,MA,Suffolk,Age-adjusted prevalence,26.0,801582,AgeAdjPrv,High Cholesterol,42.3385513,-71.018253,Boston,MA,Suffolk,317.0495047533333
+161,2019,MA,Suffolk,Crude prevalence,23.5,801582,CrdPrv,High Blood Pressure,42.3385513,-71.018253,Boston,MA,Suffolk,317.0495047533333
+162,2019,MA,Suffolk,Crude prevalence,24.8,801582,CrdPrv,High Cholesterol,42.3385513,-71.018253,Boston,MA,Suffolk,317.0495047533333
+163,2019,MA,Suffolk,Age-adjusted prevalence,26.4,801582,AgeAdjPrv,High Blood Pressure,42.3385513,-71.018253,Boston,MA,Suffolk,317.0495047533333
+164,2019,MD,Baltimore,Crude prevalence,33.1,826017,CrdPrv,High Cholesterol,39.4431666,-76.6165693,Baltimore,MD,Baltimore,1939.6559161466669
+165,2019,MD,Baltimore,Crude prevalence,35.5,826017,CrdPrv,High Blood Pressure,39.4431666,-76.6165693,Baltimore,MD,Baltimore,1939.6559161466669
+166,2019,MD,Baltimore,Age-adjusted prevalence,29.2,826017,AgeAdjPrv,High Cholesterol,39.4431666,-76.6165693,Baltimore,MD,Baltimore,1939.6559161466669
+167,2019,MD,Baltimore,Age-adjusted prevalence,32.4,826017,AgeAdjPrv,High Blood Pressure,39.4431666,-76.6165693,Baltimore,MD,Baltimore,1939.6559161466669
+168,2019,LA,Orleans,Age-adjusted prevalence,39.2,389476,AgeAdjPrv,High Blood Pressure,30.0534195,-89.9345018,New Orleans,LA,Orleans,238.91591579199996
+169,2019,LA,Orleans,Crude prevalence,34.2,389476,CrdPrv,High Cholesterol,30.0534195,-89.9345018,New Orleans,LA,Orleans,238.91591579199996
+170,2019,LA,Orleans,Age-adjusted prevalence,31.4,389476,AgeAdjPrv,High Cholesterol,30.0534195,-89.9345018,New Orleans,LA,Orleans,238.91591579199996
+171,2019,LA,Orleans,Crude prevalence,40.8,389476,CrdPrv,High Blood Pressure,30.0534195,-89.9345018,New Orleans,LA,Orleans,238.91591579199996
+172,2019,LA,East Baton Rouge,Crude prevalence,38.5,439729,CrdPrv,High Blood Pressure,30.5439297,-91.093131,Baton Rouge,LA,East Baton Rouge,542.657178358
+173,2019,LA,East Baton Rouge,Crude prevalence,31.8,439729,CrdPrv,High Cholesterol,30.5439297,-91.093131,Baton Rouge,LA,East Baton Rouge,542.657178358
+174,2019,LA,East Baton Rouge,Age-adjusted prevalence,30.2,439729,AgeAdjPrv,High Cholesterol,30.5439297,-91.093131,Baton Rouge,LA,East Baton Rouge,542.657178358
+175,2019,LA,East Baton Rouge,Age-adjusted prevalence,38.8,439729,AgeAdjPrv,High Blood Pressure,30.5439297,-91.093131,Baton Rouge,LA,East Baton Rouge,542.657178358
+176,2019,KY,Jefferson,Crude prevalence,39.9,767452,CrdPrv,High Blood Pressure,38.1895321,-85.6576243,Louisville,KY,Jefferson,5172.629704762
+177,2019,KY,Jefferson,Age-adjusted prevalence,31.9,767452,AgeAdjPrv,High Cholesterol,38.1895321,-85.6576243,Louisville,KY,Jefferson,5172.629704762
+178,2019,KY,Jefferson,Crude prevalence,35.3,767452,CrdPrv,High Cholesterol,38.1895321,-85.6576243,Louisville,KY,Jefferson,5172.629704762
+179,2019,KY,Jefferson,Age-adjusted prevalence,37.4,767452,AgeAdjPrv,High Blood Pressure,38.1895321,-85.6576243,Louisville,KY,Jefferson,5172.629704762
+180,2019,KS,Sedgwick,Age-adjusted prevalence,32.5,519907,AgeAdjPrv,High Blood Pressure,37.681045,-97.4610535,Wichita,KS,Sedgwick,24.47061455866667
+181,2019,KS,Sedgwick,Crude prevalence,33.6,519907,CrdPrv,High Blood Pressure,37.681045,-97.4610535,Wichita,KS,Sedgwick,24.47061455866667
+182,2019,KS,Sedgwick,Crude prevalence,34.9,519907,CrdPrv,High Cholesterol,37.681045,-97.4610535,Wichita,KS,Sedgwick,24.47061455866667
+183,2019,KS,Sedgwick,Age-adjusted prevalence,31.7,519907,AgeAdjPrv,High Cholesterol,37.681045,-97.4610535,Wichita,KS,Sedgwick,24.47061455866667
+184,2019,IA,Polk,Crude prevalence,28.6,494281,CrdPrv,High Blood Pressure,41.6848158,-93.568971,Des Moines,IA,Polk,3023.4672225653335
+185,2019,IA,Polk,Age-adjusted prevalence,28.2,494281,AgeAdjPrv,High Blood Pressure,41.6848158,-93.568971,Des Moines,IA,Polk,3023.4672225653335
+186,2019,IA,Polk,Crude prevalence,31.3,494281,CrdPrv,High Cholesterol,41.6848158,-93.568971,Des Moines,IA,Polk,3023.4672225653335
+187,2019,IA,Polk,Age-adjusted prevalence,29.1,494281,AgeAdjPrv,High Cholesterol,41.6848158,-93.568971,Des Moines,IA,Polk,3023.4672225653335
+188,2019,IN,Marion,Crude prevalence,35.0,966183,CrdPrv,High Blood Pressure,39.7829759,-86.1357939,Indianapolis,IN,Marion,1712.118486204
+189,2019,IN,Marion,Age-adjusted prevalence,29.6,966183,AgeAdjPrv,High Cholesterol,39.7829759,-86.1357939,Indianapolis,IN,Marion,1712.118486204
+190,2019,IN,Marion,Age-adjusted prevalence,35.5,966183,AgeAdjPrv,High Blood Pressure,39.7829759,-86.1357939,Indianapolis,IN,Marion,1712.118486204
+191,2019,IN,Marion,Crude prevalence,31.1,966183,CrdPrv,High Cholesterol,39.7829759,-86.1357939,Indianapolis,IN,Marion,1712.118486204
+192,2019,IL,Cook,Age-adjusted prevalence,27.2,5108284,AgeAdjPrv,High Cholesterol,41.8942937,-87.6454546,Chicago,IL,Cook,3970.9686125660005
+193,2019,IL,Cook,Crude prevalence,29.8,5108284,CrdPrv,High Blood Pressure,41.8942937,-87.6454546,Chicago,IL,Cook,3970.9686125660005
+194,2019,IL,Cook,Age-adjusted prevalence,29.2,5108284,AgeAdjPrv,High Blood Pressure,41.8942937,-87.6454546,Chicago,IL,Cook,3970.9686125660005
+195,2019,IL,Cook,Crude prevalence,29.3,5108284,CrdPrv,High Cholesterol,41.8942937,-87.6454546,Chicago,IL,Cook,3970.9686125660005
+196,2019,GA,Fulton,Age-adjusted prevalence,32.0,1077402,AgeAdjPrv,High Blood Pressure,33.7900338,-84.4681816,Atlanta,GA,Fulton,466.87880266999997
+197,2019,GA,Fulton,Crude prevalence,29.1,1077402,CrdPrv,High Cholesterol,33.7900338,-84.4681816,Atlanta,GA,Fulton,466.87880266999997
+198,2019,GA,Fulton,Age-adjusted prevalence,28.4,1077402,AgeAdjPrv,High Cholesterol,33.7900338,-84.4681816,Atlanta,GA,Fulton,466.87880266999997
+199,2019,GA,Fulton,Crude prevalence,31.1,1077402,CrdPrv,High Blood Pressure,33.7900338,-84.4681816,Atlanta,GA,Fulton,466.87880266999997
+200,2019,FL,Pinellas,Age-adjusted prevalence,29.0,976802,AgeAdjPrv,High Cholesterol,27.9053425,-82.7980663,Clearwater/Saint Petersburg,FL,Pinellas,384.6702214386666
+201,2019,FL,Pinellas,Crude prevalence,37.4,976802,CrdPrv,High Blood Pressure,27.9053425,-82.7980663,Clearwater/Saint Petersburg,FL,Pinellas,384.6702214386666
+202,2019,FL,Pinellas,Age-adjusted prevalence,30.5,976802,AgeAdjPrv,High Blood Pressure,27.9053425,-82.7980663,Clearwater/Saint Petersburg,FL,Pinellas,384.6702214386666
+203,2019,FL,Pinellas,Crude prevalence,36.4,976802,CrdPrv,High Cholesterol,27.9053425,-82.7980663,Clearwater/Saint Petersburg,FL,Pinellas,384.6702214386666
+204,2019,FL,Miami Dade,Crude prevalence,31.3,2707303,CrdPrv,High Cholesterol,25.6160085,-80.5037495,Miami,FL,Miami Dade,818.0676884446667
+205,2019,FL,Miami Dade,Age-adjusted prevalence,28.9,2707303,AgeAdjPrv,High Blood Pressure,25.6160085,-80.5037495,Miami,FL,Miami Dade,818.0676884446667
+206,2019,FL,Miami Dade,Crude prevalence,31.9,2707303,CrdPrv,High Blood Pressure,25.6160085,-80.5037495,Miami,FL,Miami Dade,818.0676884446667
+207,2019,FL,Miami Dade,Age-adjusted prevalence,27.2,2707303,AgeAdjPrv,High Cholesterol,25.6160085,-80.5037495,Miami,FL,Miami Dade,818.0676884446667
+208,2019,FL,Hillsborough,Age-adjusted prevalence,30.2,1497957,AgeAdjPrv,High Blood Pressure,27.8876095,-82.3744173,Tampa,FL,Hillsborough,567.7714635846665
+209,2019,FL,Hillsborough,Crude prevalence,30.4,1497957,CrdPrv,High Cholesterol,27.8876095,-82.3744173,Tampa,FL,Hillsborough,567.7714635846665
+210,2019,FL,Hillsborough,Age-adjusted prevalence,28.1,1497957,AgeAdjPrv,High Cholesterol,27.8876095,-82.3744173,Tampa,FL,Hillsborough,567.7714635846665
+211,2019,FL,Hillsborough,Crude prevalence,30.9,1497957,CrdPrv,High Blood Pressure,27.8876095,-82.3744173,Tampa,FL,Hillsborough,567.7714635846665
+212,2019,FL,Orange,Crude prevalence,28.2,1404396,CrdPrv,High Cholesterol,28.5143906,-81.3232839,Orlando,FL,Orange,989.7899380926665
+213,2019,FL,Orange,Age-adjusted prevalence,29.9,1404396,AgeAdjPrv,High Blood Pressure,28.5143906,-81.3232839,Orlando,FL,Orange,989.7899380926665
+214,2019,FL,Orange,Crude prevalence,29.0,1404396,CrdPrv,High Blood Pressure,28.5143906,-81.3232839,Orlando,FL,Orange,989.7899380926665
+215,2019,FL,Orange,Age-adjusted prevalence,27.4,1404396,AgeAdjPrv,High Cholesterol,28.5143906,-81.3232839,Orlando,FL,Orange,989.7899380926665
+216,2019,FL,Duval,Age-adjusted prevalence,28.8,966728,AgeAdjPrv,High Cholesterol,30.3352449,-81.6481132,Jacksonville,FL,Duval,217.450281414
+217,2019,FL,Duval,Age-adjusted prevalence,33.6,966728,AgeAdjPrv,High Blood Pressure,30.3352449,-81.6481132,Jacksonville,FL,Duval,217.450281414
+218,2019,FL,Duval,Crude prevalence,34.5,966728,CrdPrv,High Blood Pressure,30.3352449,-81.6481132,Jacksonville,FL,Duval,217.450281414
+219,2019,FL,Duval,Crude prevalence,31.3,966728,CrdPrv,High Cholesterol,30.3352449,-81.6481132,Jacksonville,FL,Duval,217.450281414
+220,2019,CO,Denver,Age-adjusted prevalence,24.3,735538,AgeAdjPrv,High Blood Pressure,39.7618502,-104.8811054,Denver,CO,Denver,12.66510854
+221,2019,CO,Denver,Age-adjusted prevalence,26.2,735538,AgeAdjPrv,High Cholesterol,39.7618502,-104.8811054,Denver,CO,Denver,12.66510854
+222,2019,CO,Denver,Crude prevalence,22.2,735538,CrdPrv,High Blood Pressure,39.7618502,-104.8811054,Denver,CO,Denver,12.66510854
+223,2019,CO,Denver,Crude prevalence,25.8,735538,CrdPrv,High Cholesterol,39.7618502,-104.8811054,Denver,CO,Denver,12.66510854
+224,2019,CO,El Paso,Crude prevalence,26.7,728310,CrdPrv,High Blood Pressure,38.8273831,-104.5274718,Colorado Springs,CO,El Paso,10.302576941999998
+225,2019,CO,El Paso,Age-adjusted prevalence,27.3,728310,AgeAdjPrv,High Blood Pressure,38.8273831,-104.5274718,Colorado Springs,CO,El Paso,10.302576941999998
+226,2019,CO,El Paso,Crude prevalence,30.0,728310,CrdPrv,High Cholesterol,38.8273831,-104.5274718,Colorado Springs,CO,El Paso,10.302576941999998
+227,2019,CO,El Paso,Age-adjusted prevalence,28.7,728310,AgeAdjPrv,High Cholesterol,38.8273831,-104.5274718,Colorado Springs,CO,El Paso,10.302576941999998
+228,2019,CA,San Francisco,Crude prevalence,28.0,866606,CrdPrv,High Cholesterol,37.7272391,-123.0322294,San Francisco,CA,San Francisco,162.28310052999998
+229,2019,CA,San Francisco,Age-adjusted prevalence,24.2,866606,AgeAdjPrv,High Blood Pressure,37.7272391,-123.0322294,San Francisco,CA,San Francisco,162.28310052999998
+230,2019,CA,San Francisco,Crude prevalence,24.2,866606,CrdPrv,High Blood Pressure,37.7272391,-123.0322294,San Francisco,CA,San Francisco,162.28310052999998
+231,2019,CA,San Francisco,Age-adjusted prevalence,26.7,866606,AgeAdjPrv,High Cholesterol,37.7272391,-123.0322294,San Francisco,CA,San Francisco,162.28310052999998
+232,2019,CA,Los Angeles,Crude prevalence,28.6,9943046,CrdPrv,High Cholesterol,34.1963983,-118.2618616,Los Angeles,CA,Los Angeles,90.16265324999998
+233,2019,CA,Los Angeles,Crude prevalence,26.2,9943046,CrdPrv,High Blood Pressure,34.1963983,-118.2618616,Los Angeles,CA,Los Angeles,90.16265324999998
+234,2019,CA,Los Angeles,Age-adjusted prevalence,27.1,9943046,AgeAdjPrv,High Cholesterol,34.1963983,-118.2618616,Los Angeles,CA,Los Angeles,90.16265324999998
+235,2019,CA,Los Angeles,Age-adjusted prevalence,26.4,9943046,AgeAdjPrv,High Blood Pressure,34.1963983,-118.2618616,Los Angeles,CA,Los Angeles,90.16265324999998
+236,2019,CA,Fresno,Age-adjusted prevalence,29.7,1000918,AgeAdjPrv,High Blood Pressure,36.7610058,-119.6550193,Fresno,CA,Fresno,87.57989461800001
+237,2019,CA,Fresno,Crude prevalence,28.5,1000918,CrdPrv,High Blood Pressure,36.7610058,-119.6550193,Fresno,CA,Fresno,87.57989461800001
+238,2019,CA,Fresno,Age-adjusted prevalence,28.0,1000918,AgeAdjPrv,High Cholesterol,36.7610058,-119.6550193,Fresno,CA,Fresno,87.57989461800001
+239,2019,CA,Fresno,Crude prevalence,29.0,1000918,CrdPrv,High Cholesterol,36.7610058,-119.6550193,Fresno,CA,Fresno,87.57989461800001
+240,2019,CA,Sacramento,Crude prevalence,28.5,1559146,CrdPrv,High Cholesterol,38.4501363,-121.3443291,Sacramento/Roseville,CA,Sacramento,126.216784264
+241,2019,CA,Sacramento,Age-adjusted prevalence,26.5,1559146,AgeAdjPrv,High Cholesterol,38.4501363,-121.3443291,Sacramento/Roseville,CA,Sacramento,126.216784264
+242,2019,CA,Sacramento,Crude prevalence,27.1,1559146,CrdPrv,High Blood Pressure,38.4501363,-121.3443291,Sacramento/Roseville,CA,Sacramento,126.216784264
+243,2019,CA,Sacramento,Age-adjusted prevalence,26.7,1559146,AgeAdjPrv,High Blood Pressure,38.4501363,-121.3443291,Sacramento/Roseville,CA,Sacramento,126.216784264
+244,2019,CA,San Diego,Age-adjusted prevalence,27.1,3332427,AgeAdjPrv,High Blood Pressure,33.0236041,-116.7761174,San Diego,CA,San Diego,33.27297670733334
+245,2019,CA,San Diego,Age-adjusted prevalence,27.3,3332427,AgeAdjPrv,High Cholesterol,33.0236041,-116.7761174,San Diego,CA,San Diego,33.27297670733334
+246,2019,CA,San Diego,Crude prevalence,28.6,3332427,CrdPrv,High Cholesterol,33.0236041,-116.7761174,San Diego,CA,San Diego,33.27297670733334
+247,2019,CA,San Diego,Crude prevalence,26.8,3332427,CrdPrv,High Blood Pressure,33.0236041,-116.7761174,San Diego,CA,San Diego,33.27297670733334
+248,2019,AR,Pulaski,Crude prevalence,35.2,392980,CrdPrv,High Cholesterol,34.7703106,-92.312996,Little Rock,AR,Pulaski,1884.4882411773333
+249,2019,AR,Pulaski,Age-adjusted prevalence,37.3,392980,AgeAdjPrv,High Blood Pressure,34.7703106,-92.312996,Little Rock,AR,Pulaski,1884.4882411773333
+250,2019,AR,Pulaski,Crude prevalence,39.4,392980,CrdPrv,High Blood Pressure,34.7703106,-92.312996,Little Rock,AR,Pulaski,1884.4882411773333
+251,2019,AR,Pulaski,Age-adjusted prevalence,31.4,392980,AgeAdjPrv,High Cholesterol,34.7703106,-92.312996,Little Rock,AR,Pulaski,1884.4882411773333
+252,2019,AZ,Pima,Age-adjusted prevalence,28.0,1061175,AgeAdjPrv,High Blood Pressure,32.128038,-111.7836574,Tucson,AZ,Pima,1.0729768466666667
+253,2019,AZ,Pima,Crude prevalence,32.5,1061175,CrdPrv,High Cholesterol,32.128038,-111.7836574,Tucson,AZ,Pima,1.0729768466666667
+254,2019,AZ,Pima,Crude prevalence,29.9,1061175,CrdPrv,High Blood Pressure,32.128038,-111.7836574,Tucson,AZ,Pima,1.0729768466666667
+255,2019,AZ,Pima,Age-adjusted prevalence,29.0,1061175,AgeAdjPrv,High Cholesterol,32.128038,-111.7836574,Tucson,AZ,Pima,1.0729768466666667
+256,2019,AZ,Maricopa,Age-adjusted prevalence,29.1,4579081,AgeAdjPrv,High Cholesterol,33.3451756,-112.4989296,Phoenix,AZ,Maricopa,38.42715456133333
+257,2019,AZ,Maricopa,Crude prevalence,29.6,4579081,CrdPrv,High Blood Pressure,33.3451756,-112.4989296,Phoenix,AZ,Maricopa,38.42715456133333
+258,2019,AZ,Maricopa,Crude prevalence,31.2,4579081,CrdPrv,High Cholesterol,33.3451756,-112.4989296,Phoenix,AZ,Maricopa,38.42715456133333
+259,2019,AZ,Maricopa,Age-adjusted prevalence,29.3,4579081,AgeAdjPrv,High Blood Pressure,33.3451756,-112.4989296,Phoenix,AZ,Maricopa,38.42715456133333
+260,2019,AL,Jefferson,Crude prevalence,40.1,655342,CrdPrv,High Blood Pressure,33.5534439,-86.8965359,Birmingham,AL,Jefferson,1088.1057546313332
+261,2019,AL,Jefferson,Age-adjusted prevalence,28.6,655342,AgeAdjPrv,High Cholesterol,33.5534439,-86.8965359,Birmingham,AL,Jefferson,1088.1057546313332
+262,2019,AL,Jefferson,Crude prevalence,31.9,655342,CrdPrv,High Cholesterol,33.5534439,-86.8965359,Birmingham,AL,Jefferson,1088.1057546313332
+263,2019,AL,Jefferson,Age-adjusted prevalence,37.7,655342,AgeAdjPrv,High Blood Pressure,33.5534439,-86.8965359,Birmingham,AL,Jefferson,1088.1057546313332

@@ -1,0 +1,304 @@
+<html lan="us">
+<head>
+    <meta charset="utf-8">
+    <title>Project 3 Data Ethics</title>
+    <link href="jquery-ui.css" rel="stylesheet">
+    <script src="external/jquery/jquery.js"></script>
+    <script src="jquery-ui.js"></script>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+    crossorigin=""/>
+
+    <!-- Leaflet JavaScript code -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+    integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+    crossorigin=""></script>
+
+    <!-- Our CSS -->
+    <link rel="stylesheet" type="text/css" href="style.css">
+
+
+    <style>
+        body{
+            font-family: "Trebuchet MS", sans-serif;
+            margin: 50px;
+        }
+        .demoHeaders {
+            margin-top: 2em;
+        }
+        #dialog-link {
+            padding: .4em 1em .4em 20px;
+            text-decoration: none;
+            position: relative;
+        }
+        #dialog-link span.ui-icon {
+            margin: 0 5px 0 0;
+            position: absolute;
+            left: .2em;
+            top: 50%;
+            margin-top: -8px;
+        }
+        #icons {
+            margin: 0;
+            padding: 0;
+        }
+        #icons li {
+            margin: 2px;
+            position: relative;
+            padding: 4px 0;
+            cursor: pointer;
+            float: left;
+            list-style: none;
+        }
+        #icons span.ui-icon {
+            float: left;
+            margin: 0 4px;
+        }
+        .fakewindowcontain .ui-widget-overlay {
+            position: absolute;
+        }
+        select {
+            width: 200px;
+        }
+    </style>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+</head>
+
+
+<body>
+<!-------------------------------------------------------------------->
+
+
+<h2 class="demoHeaders">Menu</h2>
+<ul id="menu">
+	<li><div>AL</div> 
+        <ul>
+            <li><div id="AL-Jefferson" onclick="getLocation(this.id)">Jefferson-Birmingham</div></li>
+         </ul>
+    </li>
+    <li><div>AR</div> 
+        <ul>
+            <li><div id="AR-Pulaski" onclick="getLocation(this.id)">Pulaski-Little Rock</div></li>
+         </ul>
+    </li>
+    <li><div>AZ</div> 
+        <ul>
+            <li><div id="AZ-Maricopa" onclick="getLocation(this.id)">Maricopa-Phoenix</div></li>
+         </ul>
+    </li>
+    <li><div>CA</div> 
+        <ul>
+            <li><div id="CA-Fresno" onclick="getLocation(this.id)">Fresno-Fresno</div></li>
+            <li><div id="CA-Los Angeles" onclick="getLocation(this.id)">Los Angeles-Los Angeles</div></li>
+            <li><div id="CA-Sacramento" onclick="getLocation(this.id)">Sacramento-Sacramento/Roseville</div></li>
+            <li><div id="CA-San Diego" onclick="getLocation(this.id)">San Diego-San Diego</div></li>
+            <li><div id="CA-San Francisco" onclick="getLocation(this.id)">San Francisco-San Francisco</div></li>
+         </ul>
+    </li>
+    <li><div>CO</div> 
+        <ul>
+            <li><div id="CO-Denver" onclick="getLocation(this.id)">Denver-Denver</div></li>
+            <li><div id="CO-El Paso" onclick="getLocation(this.id)">El Paso-Colorado Springs</div></li>
+         </ul>
+    </li>
+    <li><div>FL</div> 
+        <ul>
+            <li><div id="FL-Duval" onclick="getLocation(this.id)">Duval-Jacksonville</div></li>
+            <li><div id="FL-Hillsborough" onclick="getLocation(this.id)">Hillsborough-Tampa</div></li>
+            <li><div id="FL-Miami Dade" onclick="getLocation(this.id)">Miami-Dade - Miami</div></li>
+            <li><div id="FL-Orange" onclick="getLocation(this.id)">Orange-Orlando</div></li>
+         </ul>
+    </li>
+    <li><div>GA</div> 
+        <ul>
+            <li><div id="GA-Fulton" onclick="getLocation(this.id)">Fulton-Atlanta</div></li>
+         </ul>
+    </li>
+    <li><div>IA</div> 
+        <ul>
+            <li><div id="IA-Polk" onclick="getLocation(this.id)">Polk-Des Moines</div></li>
+         </ul>
+    </li>
+    <li><div>IL</div> 
+        <ul>
+            <li><div id="IL-Cook" onclick="getLocation(this.id)">Cook-Chicago</div></li>
+         </ul>
+    </li>
+    <li><div>IN</div> 
+        <ul>
+            <li><div id="IN-Marion" onclick="getLocation(this.id)">Marion-Indianapolis</div></li>
+         </ul>
+    </li>
+    <li><div>KS</div> 
+        <ul>
+            <li><div id="KS-Sedgwick" onclick="getLocation(this.id)">Sedgwick-Wichita</div></li>
+         </ul>
+    </li>
+    <li><div>KY</div> 
+        <ul>
+            <li><div id="KY-Jefferson" onclick="getLocation(this.id)">Jefferson-Louisville</div></li>
+         </ul>
+    </li>
+    <li><div>LA</div> 
+        <ul>
+            <li><div id="LA-East Baton Rouge" onclick="getLocation(this.id)">East Baton Rouge-Baton Rouge</div></li>
+            <li><div id="LA-Orleans" onclick="getLocation(this.id)">Orleans-New Orleans</div></li>
+         </ul>
+    </li>
+    <li><div>MA</div> 
+        <ul>
+            <li><div id="MA-Suffolk" onclick="getLocation(this.id)">Suffolk-Boston</div></li>
+         </ul>
+    </li>
+    <li><div>MD</div> 
+        <ul>
+            <li><div id="MD-Baltimore" onclick="getLocation(this.id)">Baltimore-Baltimore</div></li>
+         </ul>
+    </li>
+    <li><div>MI</div> 
+        <ul>
+            <li><div id="MI-Kent" onclick="getLocation(this.id)">Kent-Grand Rapids</div></li>
+            <li><div id="MI-Wayne" onclick="getLocation(this.id)">Wayne-Detroit</div></li>
+         </ul>
+    </li>
+    <li><div>MN</div> 
+        <ul>
+            <li><div id="MN-Hennepin" onclick="getLocation(this.id)">Hennepin-Minneapolis</div></li>
+         </ul>
+    </li>
+    <li><div>MO</div> 
+        <ul>
+            <li><div id="MO-Jackson" onclick="getLocation(this.id)">Jackson-Kansas City</div></li>
+            <li><div id="MO-St. Louis" onclick="getLocation(this.id)">St. Louis- Saint Louis</div></li>
+         </ul>
+    </li>
+    <li><div>NC</div> 
+        <ul>
+            <li><div id="NC-Mecklenburg" onclick="getLocation(this.id)">Mecklenburg-Charlotte</div></li>
+            <li><div id="NC-Wake" onclick="getLocation(this.id)">Wake-Raleigh</div></li>
+         </ul>
+    </li>
+    <li><div>NE</div> 
+        <ul>
+            <li><div id="NE-Douglas" onclick="getLocation(this.id)">Douglas-Omaha</div></li>
+         </ul>
+    </li>
+    <li><div>NM</div> 
+        <ul>
+            <li><div id="NM-Bernalillo" onclick="getLocation(this.id)">Bernalillo-Albuquerque</div></li>
+         </ul>
+    </li>
+    <li><div>NV</div> 
+        <ul>
+            <li><div id="NV-Clark" onclick="getLocation(this.id)">Clark-Las Vegas</div></li>
+         </ul>
+    </li>
+    <li><div>NY</div> 
+        <ul>
+            <li><div id="NY-Albany" onclick="getLocation(this.id)">Albany-Albany</div></li>
+            <li><div id="NY-Erie" onclick="getLocation(this.id)">Erie-Buffalo</div></li>
+            <li><div id="NY-New York" onclick="getLocation(this.id)">New York-New York</div></li>
+         </ul>
+    </li>
+    <li><div>OH</div> 
+        <ul>
+            <li><div id="OH-Cuyahoga" onclick="getLocation(this.id)">Cuyahoga-Cleveland</div></li>
+            <li><div id="OH-Hamilton" onclick="getLocation(this.id)">Hamilton-Cincinnati</div></li>
+            <li><div id="OH-Lucas" onclick="getLocation(this.id)">Lucas-Toledo</div></li>
+            <li><div id="OH-Montgomery" onclick="getLocation(this.id)">Montgomery-Dayton</div></li>
+            <li><div id="OH-Summit" onclick="getLocation(this.id)">Summit-Akron</div></li>
+         </ul>
+    </li>
+    <li><div>OK</div> 
+        <ul>
+            <li><div id="OK-Oklahoma" onclick="getLocation(this.id)">Oklahoma-Oklahoma City</div></li>
+            <li><div id="OK-Tulsa" onclick="getLocation(this.id)">Tulsa-Tulsa</div></li>
+         </ul>
+    </li>
+    <li><div>OR</div> 
+        <ul>
+            <li><div id="OR-Multnomah" onclick="getLocation(this.id)">Multnomah-Portland</div></li>
+         </ul>
+    </li>
+    <li><div>PA</div> 
+        <ul>
+            <li><div id="PA-Allegheny" onclick="getLocation(this.id)">Allegheny-Pittsburgh</div></li>
+            <li><div id="PA-Dauphin" onclick="getLocation(this.id)">Dauphin-Harrisburg</div></li>
+            <li><div id="PA-Philadelphia" onclick="getLocation(this.id)">Philadelphia-Philadelphia</div></li>
+         </ul>
+    </li>
+    <li><div>RI</div> 
+        <ul>
+            <li><div id="RI-Providence" onclick="getLocation(this.id)">Providence-Providence</div></li>
+         </ul>
+    </li>
+    <li><div>SC</div> 
+        <ul>
+            <li><div id="SC-Charleston" onclick="getLocation(this.id)">Charleston-Charleston</div></li>
+         </ul>
+    </li>
+    <li><div>TN</div> 
+        <ul>
+            <li><div id="TN-Davidson" onclick="getLocation(this.id)">Davidson-Nashville</div></li>
+            <li><div id="TN-Shelby" onclick="getLocation(this.id)">Shelby-Memphis</div></li>
+         </ul>
+    </li>
+    <li><div>TX</div> 
+        <ul>
+            <li><div id="TX-Bexar" onclick="getLocation(this.id)">Bexar-San Antonio</div></li>
+            <li><div id="TX-Dallas" onclick="getLocation(this.id)">Dallas-Dallas</div></li>
+            <li><div id="TX-El Paso" onclick="getLocation(this.id)">El Paso-El Paso</div></li>
+            <li><div id="TX-Harris" onclick="getLocation(this.id)">Harris-Houston</div></li>
+            <li><div id="TX-Hidalgo" onclick="getLocation(this.id)">Hidalgo-Mcallen</div></li>
+            <li><div id="TX-Tarrant" onclick="getLocation(this.id)">Tarrant-Fort Worth</div></li>
+            <li><div id="TX-Travis" onclick="getLocation(this.id)">Travis-Austin</div></li>
+         </ul>
+    </li>
+    <li><div>UT</div> 
+        <ul>
+            <li><div id="UT-Salt Lake" onclick="getLocation(this.id)">Salt Lake-Salt Lake City</div></li>
+         </ul>
+    </li>
+    <li><div>VA</div> 
+        <ul>
+            <li><div id="VA-Henrico" onclick="getLocation(this.id)">Henrico-Richmond</div></li>
+         </ul>
+    </li>
+    <li><div>WA</div> 
+        <ul>
+            <li><div id="WA-King" onclick="getLocation(this.id)">King-Seattle</div></li>
+         </ul>
+    </li>
+    <li><div>WI</div> 
+        <ul>
+            <li><div id="WI-Dane" onclick="getLocation(this.id)">Dane-Madison</div></li>
+            <li><div id="WI-Milwaukee" onclick="getLocation(this.id)">Milwaukee-Milwaukee</div></li>
+          </ul>
+    </li>
+</li>
+</ul>
+
+<script>$( "#menu" ).menu();</script>
+<div id="bar"></div>
+    
+<div id="dataBox" style="position: relative;left: 125px;top: -250px;">
+    <p id="state"></p>
+    <p id="city"></p>
+    <p id="county"></p>
+    <p id="population"></p>
+    <p id="greenspace_per_capita"></p>
+    <p id="HighBloodPressureCrdPrv"></p>
+    <p id="HighBloodPressureAgeAdjPrv"></p>
+    <p id="HighCholesterolCrdPrv"></p>
+    <p id="HighCholesterolAgeAdjPrv"></p>
+</div>
+<div id="map"></div>
+
+
+<div id='plot'></div>
+<script type="text/javascript" src="logic.js"></script>
+</body>
+
+</html>
